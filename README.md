@@ -1,16 +1,21 @@
-## Hi there 👋
+## Welcome here! ヽ(・∀・)ﾉ
 
-<!--
-**pur-ga/pur-ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught IT enthusiast focusing on **Quality Assurance (QA)** and **Test Automation**. 
 
-Here are some ideas to get you started:
+I also enjoy exploring other areas of technology like Linux, web development, gaming and programming tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **QA & Test Automation**: Python, SQL, API Testing, Test Design
+- **Version Control**: Git/GitHub
+- **Frontend Basics**: HTML, CSS, JavaScript
+- **Linux** Basics
+
+## Education
+
+- Higher School of Economics (HSE), Saint Petersburg — Bachelor's in Asian Studies
+
+## Other hobbies & Interests
+- drawing & painting (both digitally and traditionally)
+- retro games and old consoles
+- language learning (Japanese, Korean)
