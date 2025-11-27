@@ -13,7 +13,7 @@ I also enjoy exploring other areas of technology like Linux, web development, ga
 
 ## Education
 
-- Higher School of Economics (HSE), Saint Petersburg — Bachelor's in Asian Studies
+- **Higher School of Economics (HSE)**, Saint Petersburg, Russia — Bachelor's in Asian Studies
 
 ## Other hobbies & Interests
 - drawing & painting (both digitally and traditionally)
